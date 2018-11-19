@@ -16,16 +16,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/batuhansaygin"
-    - icon: fa fa-stack-overflow
-      link: "https://stackoverflow.com/users/6426428"
     - icon: fa-github
       link: "https://github.com/batuhansaygin"
+    - icon: fa-stack-overflow
+      link: "https://stackoverflow.com/users/6426428"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/batuhansaygin"
 
 share:
   twitter_username: #
