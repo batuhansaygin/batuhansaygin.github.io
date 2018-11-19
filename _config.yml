@@ -22,8 +22,8 @@ social:
       link: "#"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/batuhansaygin"
-    - icon: fa-stack-exchange
-      link: "#"
+    - icon: fa fa-stack-overflow
+      link: "https://stackoverflow.com/users/6426428"
     - icon: fa-github
       link: "https://github.com/batuhansaygin"
 
